@@ -1,3 +1,0 @@
-- **Depth of nodes**: Is the poetic compression about right, or should nodes unpack further?
-- **Practical interaction**: Does the hyperlink → decompression → dynamic loading model match your usage vision?
-- **Obsidian functionality**: Would specific plugin guidance (Excalidraw, Dataview) be helpful next?

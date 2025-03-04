@@ -1,6 +1,0 @@
-- **Visual Graphs**: Use Obsidian's built-in graph view to visualize these relationships dynamically.
-- **Interactive Decompression**: Keep content tightly compressed; expand through hover previews and incremental clicks.
-- **Plugins**:
-    - **Excalidraw** for visual mapping
-    - **Dataview** for structured query of themes ("recursion", "embodiment", "narrative")
-    - **Breadcrumbs** for recursive navigation paths

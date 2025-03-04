@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "McGilchrist's Hemisphere.md",
+                "file": "Ulrich's Recursive Insight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "McGilchrist's Hemisphere"
+              "title": "Ulrich's Recursive Insight"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "McGilchrist's Hemisphere.md",
+                "file": "Ulrich's Recursive Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for McGilchrist's Hemisphere"
+              "title": "Backlinks for Ulrich's Recursive Insight"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "McGilchrist's Hemisphere.md",
+                "file": "Ulrich's Recursive Insight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from McGilchrist's Hemisphere"
+              "title": "Outgoing links from Ulrich's Recursive Insight"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "McGilchrist's Hemisphere.md",
+                "file": "Ulrich's Recursive Insight.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of McGilchrist's Hemisphere"
+              "title": "Outline of Ulrich's Recursive Insight"
             }
           }
         ]
@@ -186,6 +186,25 @@
   },
   "active": "3a0a5d6f9ceff27c",
   "lastOpenFiles": [
+    "Guides/Interaction Model.md",
+    "Guides/Development Roadmap.md",
+    "Guides/Technical Implementation.md",
+    "Guides/Node Creation Template.md",
+    "Guides/Contribution Guidelines.md",
+    "Guides/Project Vision.md",
+    "Compressed Diamonds/Hemispheric Rotation.md",
+    "Compressed Diamonds/Moonlit Choreography.md",
+    "Compressed Diamonds/Austin's Attention Seesaw.md",
+    "Compressed Diamonds/Breath's Recursive Edge.md",
+    "Compressed Diamonds",
+    "Layer 1 Nodes/Recursive Text Transformation Calculus.md",
+    "Layer 1 Nodes/Hyperstitional Narrative Waveforms.md",
+    "Layer 1 Nodes/Levin's Multi-Scale Cognition.md",
+    "Layer 1 Nodes/Musil's Moonlit Walk.md",
+    "McGilchrist's Hemisphere.md",
+    "Layer 1 Nodes/McGilchrist's Hemisphere.md",
+    "Layer 1 Nodes/Recursive Embodiment.md",
+    "Layer 1 Nodes",
     "Central Nodes",
     "all_markdown_content.txt",
     "Intersubjective Recursion.md",
@@ -197,20 +216,7 @@
     "Recursive Text Transformation Calculus.md",
     "Hyperstitional Narrative Waveforms.md",
     "Levin's Multi-Scale Cognition.md",
-    "Musil's Moonlit Walk.md",
-    "McGilchrist's Hemisphere.md",
-    "Recursive Embodiment.md",
-    "Starter/Musil's Moonlit Walk.md",
-    "Guides/vision_of_interaction.md",
-    "Guides/open_questions.md",
-    "Guides/next_steps.md",
-    "Guides/implementation_notes.md",
-    "Starter/Austin's Attention Seesaw.md",
     "Guides",
-    "Starter/Hyperstitional Narrative Waveforms.md",
-    "Starter/Levin's Multi-Scale Cognition.md",
-    "Starter/McGilchrist's Hemisphere.md",
-    "Welcome.md",
     "Starter",
     "desktop.ini"
   ]
